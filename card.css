@@ -1,1 +1,54 @@
 
+.navbar {
+
+  width: 100%;
+
+  background-color: #b3b3b3;
+
+  overflow: auto;
+
+}
+
+.navbar a {
+
+  float: left;
+
+  padding: 10px;
+
+  color: white;
+
+  text-decoration: none;
+
+  font-size: 17px;
+
+  width: 18%;
+
+  text-align: center;
+
+}
+
+.navbar a:hover {
+
+  background-color: black;
+
+}
+
+.navbar a.active {
+
+  background-color: #53c653;
+
+}
+
+.card {
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+  max-width: 400px;
+
+  margin: auto;
+
+  text-align: center;
+
+  background-color: #D1D0CE;
+
+}
